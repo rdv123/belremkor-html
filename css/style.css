@@ -410,7 +410,7 @@ ul.search li a:hover {
 .full_bg {
      background: url(../images/banner2.jpg);
      /* background-size: 100% 100%; */
-     background-position: center;
+     background-position: top;
      background-repeat: no-repeat;
 
 }
@@ -422,7 +422,7 @@ ul.search li a:hover {
 
 .build_box {
      text-align: left;
-     padding-top: 20%;
+     padding-top: 10%;
 }
 
 .banner_po {
@@ -494,6 +494,11 @@ ul.search li a:hover {
 
 
 /** end banner section **/
+
+.icon-container{
+     width: 76px;
+     height: 78px;
+}
 
 .titlepage {
      text-align: center;
@@ -744,7 +749,7 @@ ul.search li a:hover {
 
 .choose {
      background: url(../images/choose_bg.jpg);
-     background-size: 100% 100%;
+     /* background-size: 100% 100%; */
      background-position: center;
      background-repeat: no-repeat;
      padding: 60px 0;
