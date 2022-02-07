@@ -1095,6 +1095,19 @@ ul.social_icon_staff li a:hover {
      text-align: center;
 }
 
+.p-footer{
+     margin: 0px;
+     font-weight: 500;
+     font-size: 15px;
+     /* line-height: 24px; */
+}
+
+.a-footer {
+     color: #fff;
+     text-decoration: none;
+     outline: none !important;
+}
+
 .border_top1 {
      border-top: #fff solid 3px;
      padding-bottom: 60px;
@@ -1139,6 +1152,11 @@ ul.social_icon_staff li a:hover {
 .logo_bottom {
      float: left;
      padding-bottom: 24px;
+}
+
+.logo-footer{
+     width: 150px;
+     height: 200px;
 }
 
 ul.link_menu li {
