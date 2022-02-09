@@ -896,6 +896,13 @@ ul.social_icon_staff li a:hover {
 
 /** contact section **/
 
+.p-info-conf{
+     margin: 0px;
+     font-weight: 500;
+     font-size: 11px;
+     line-height: 24px;
+}
+
 .contact {
      background: #fff;
      margin-top: 90px;
